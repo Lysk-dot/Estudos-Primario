@@ -1,0 +1,7 @@
+﻿services:
+  estudos-primario:
+    image: estudos-primario
+    build:
+      context: .
+      dockerfile: Estudos-Primario/Dockerfile
+
