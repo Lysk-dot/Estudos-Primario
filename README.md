@@ -1,12 +1,10 @@
 # Projeto de Estudos C#
 
-Breve descrição do repositório e comandos úteis.
+Universidade Metodista de São Paulo
 
-## Requisitos
-- .NET SDK 8
+Curso ADS
 
-## Comandos
-- Restaurar: `dotnet restore`
-- Compilar: `dotnet build`
-- Executar: `dotnet run --project src/Estudos-Primario/`
-- Testes: `dotnet test`
+Aula Algoritmos
+
+Aqui é um repositorio apenas para estudo de colegas de classe
+Alem de versionamento de codigo para historico
